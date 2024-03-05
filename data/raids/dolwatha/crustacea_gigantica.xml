@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+    <!--Announcements-->
+	<announce delay="1000" type="Event" message="Orc Leader: Beware Crustacea Gigantica coming!" />
+	<areaspawn delay="10000" fromx="499" fromy="130" fromz="7" tox="505" toy="136" toz="7">
+		<monster name="Crustacea Gigantica" amount="1" />
+	</areaspawn>
+</raid>

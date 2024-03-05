@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+	<announce delay="1000" type="Event" message="Be careful, guards are said to have seen orcs north of Mordragor! " />
+	<announce delay="60000" type="Event" message="Mordragor is under attack!" />
+	<areaspawn delay="60000" fromx="1060" fromy="280" fromz="7" tox="1097" toy="319" toz="7">
+		<monster name="Orc" amount="15" />
+		<monster name="Orc Shaman" amount="6" />
+		<monster name="Orc Rider" amount="6" />
+		<monster name="Orc Berserker" amount="4" />
+		<monster name="Orc Warlord" amount="2" />
+	</areaspawn>
+</raid>

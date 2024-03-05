@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wings>
+<wing id="1" clientid="937" name="Fiery Wings" speed="20" />
+<wing id="2" clientid="938" name="Lullaby Wings" speed="20" />
+<wing id="3" clientid="939" name="Falanaar Wings" speed="20" />
+<wing id="4" clientid="940" name="Vampire Wings" speed="20" />
+<wing id="5" clientid="941" name="Bark Wings" speed="20" />
+</wings>
